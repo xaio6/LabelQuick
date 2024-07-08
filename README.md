@@ -17,8 +17,9 @@ LabelQuick 是一款由 AI Horizon 团队设计并开发的快速图像标注工
 1. 安装 `requirements` 中的依赖。
 2. 下载[模型](https://pan.baidu.com/s/16xAgfkCgpDHR9eo2xoUIaQ?pwd=AIHZ)到 `segment/model` 里面。
 3. 运行 `Run.py` 打开 LabelQuick，点击 "OpenDir" 打开您的图片数据集。
-4. 点击 `Change Save Dir` 选择标注数据保存地址。
-5. 使用鼠标左键单击图片开始标注您的数据。
+4. 点击 `Open Dir` 选择图片目录。
+5. 点击 `Change Save Dir` 选择标注数据保存目录。
+6. 使用鼠标左键单击图片开始标注您的数据。
 7. 完成标注后，并导出标注数据。
 
 ### 用户界面介绍
