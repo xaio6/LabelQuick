@@ -53,6 +53,9 @@ https://github.com/xaio6/LabelQuick/assets/118904918/201647df-3544-4030-84c4-b71
 - **Q:** 有哪些快捷键？  
   **A:** 上一张：A；下一张：D；保存标注数据：S。
 
+### 友情链接
+- [SegmentAnything](https://github.com/facebookresearch/segment-anything)分割任何模型 （SAM）
+
 ### 技术支持和联系方式
 如果您在使用过程中遇到任何问题，请联系我们的技术支持团队：
 - 公众号：AI Horizon
